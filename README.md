@@ -8,3 +8,6 @@ https://deepsource.io/
 
 #### Vision Transformer
 https://github.com/lucidrains/vit-pytorch
+
+#### timm
+https://github.com/rwightman/pytorch-image-models
